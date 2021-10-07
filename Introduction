@@ -11,4 +11,7 @@ There is different elements in our bioreactor :
 - Another heating system (with a thermostat controlled with arduino) for the second tank, put at 42 degrees.
 - Two thermometers (in each tank) to send informations from the tanks to the arduino (for thermostat system).
 - A turbidity sensor to control density of E. coli inside the first tank.
+- Different relays to transform 5V to 12V
+- Power supplier 
 
+[…]
