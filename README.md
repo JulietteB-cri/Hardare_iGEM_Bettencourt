@@ -15,14 +15,14 @@ We wished to create our bioreactor to automatize our biological process and incr
 There is different elements in our bioreactor :
 - One tank to countain E. coli strains
 - A Second tank to countain minicell to produce pigments.
-- Airpumps to mix the liquid of the first tank, and to send to the second tank the E. coli bath.
-- A second air pump to extract the liquid from the second tank (countaining minicells and pigments) to another tank.
+- An Airpump to mix the liquid of the first tank, and to send to the second tank the E. coli bath.
+- A Liquid handling pump to extract the liquid from the second tank (countaining minicells and pigments) to another tank.
 - One heating system (with a thermostat controlled with arduino) for the first tank, put at 30 degrees.
 - Another heating system (with a thermostat controlled with arduino) for the second tank, put at 42 degrees.
 - Two thermometers (in each tank) to send informations from the tanks to the arduino (for thermostat system).
 - A turbidity sensor to control density of E. coli inside the first tank.
 - Different relays to transform 5V to 12V
-- Power supplier 
+- power supply
 
 Concerning the Arduino system (That you can find in the GitHub): 
 - There is 2 thermostats system to manage temperatures inside tanks
