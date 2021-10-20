@@ -14,4 +14,8 @@ There is different elements in our bioreactor :
 - Different relays to transform 5V to 12V
 - Power supplier 
 
-[…]
+Concerning the Arduino system (That you can find in the GitHub): 
+- There is 2 thermostats system to manage temperatures inside tanks
+- Arduino receive data from the turbidity sensor, it allows to know the density of E. coli.
+- When the density is sufficient (depending what we expected), the pump send the liquid in the second tank.
+- There is new conditions in the second tank to allow minicell to produce pigments
