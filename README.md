@@ -4,11 +4,13 @@
 Here is the repository for all the documentation on the Hardware design of Paris Bettencourt team 
 
 Members of this project: 
+- Michael Sedbon
 - Daria Fedorova
 - Sarah Haggenmüller
 - Etienne Lemiere
 - Nathália Raquel de Souza Fernandes
-- Michael Sedbon
+- Juliette Bellengier
+
 
 We wished to create our bioreactor to automatize our biological process and increase the biosafety.
 
